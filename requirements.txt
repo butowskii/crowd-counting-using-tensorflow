@@ -1,4 +1,6 @@
-tensorflow==1.12.1
 numpy==1.14.5
-opencv_contrib_python==3.4.1.15
-progressbar2==3.39.2
+opencv_contrib_python==4.2.0.34
+progressbar2==3.50.1
+tensorflow==1.14
+
+
